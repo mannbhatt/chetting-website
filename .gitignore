@@ -1,0 +1,13 @@
+# Ignore sensitive and unnecessary files
+.env
+config.php
+database.php
+uploads/
+*.log
+*.sql
+vendor/
+node_modules/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
